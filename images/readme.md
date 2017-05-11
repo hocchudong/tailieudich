@@ -1,0 +1,1 @@
+### Nơi chứa ảnh trong các bài viết.
