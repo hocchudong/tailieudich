@@ -14,12 +14,12 @@ Lưu ý: Sử dụng theo cú pháp sau
 
 ### Mục lục:
 
-1. [11_5_2017 Edward Snowden talks cloud, open source and fear at OpenStack Summit - http://superuser.openstack.org/articles/snowden-interview-openstack-summit/ ThaoNV](https://github.com/thaonguyenvan/meditech-thuctap/blob/master/ThaoNV/baidich/Edward%20Snowden%20t%E1%BA%A1i%20OpenStack%20Summit.md)
+1. [Edward Snowden talks cloud, open source and fear at OpenStack Summit](./docs/1.Edward-snowden-interview-openstack-summit.md) - dịch bởi ThaoNV
 
-2. [11_5_2017 Why you need STONITH - http://advogato.org/person/lmb/diary/105.html ThaoNV](https://github.com/thaonguyenvan/meditech-thuctap/blob/master/ThaoNV/baidich/Why%20you%20need%20STONITH.md)
+2. [Why you need STONITH](./docs/2.Why-you-need-STONITH.md) - dịch bởi ThaoNV
 
-3. [11_5_2017 7waystoreadbook - http://accelazh.github.io/ceph/My-7-Ways-To-Read-A-Book TriMQ ](https://github.com/trimq/Tailieudich/blob/master/7waystoreadbook.md)
+3. [My 7 Ways to Read a Book](./docs/My-7-Ways-To-Read-A-Book.md) - dịch bởi TriMQ
 
-4. [11_5_2017 Presenting-technical - http://ethancbanks.com/2016/09/19/presenting-technical-topics-to-technical-people/ TriMQ](https://github.com/trimq/Tailieudich/blob/master/Presenting-technical.md)
+4. [Presenting technical topics to technical people](./docs/4.Presenting-technical-topics-to-technical-people.md) dịch bởi TriMQ
 
-5. [11_5_2017 State-Cloud2017 - https://www.linkedin.com/pulse/state-cloud-2017-part-i-a-rathinasabapathy TriMQ](https://github.com/trimq/Tailieudich/blob/master/State-Cloud2017.md#9)
+5. [State of the Cloud 2017 - Part-I](./docs/5.State-cloud-2017-part-i.md) dịch bởi TriMQ
