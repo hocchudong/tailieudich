@@ -14,9 +14,9 @@ Lưu ý: Sử dụng theo cú pháp sau
 
 ### Mục lục:
 
-1. [Edward Snowden talks cloud, open source and fear at OpenStack Summit](../docs/1.Edward-snowden-interview-openstack-summit.md) - dịch bởi ThaoNV
+1. [Edward Snowden talks cloud, open source and fear at OpenStack Summit](./docs/1.Edward-snowden-interview-openstack-summit.md) - dịch bởi ThaoNV
 
-2. [11_5_2017 Why you need STONITH](../docs/2. Why-you-need-STONITH.md) - dịch bởi ThaoNV
+2. [Why you need STONITH](./docs/2. Why-you-need-STONITH.md) - dịch bởi ThaoNV
 
 3. [11_5_2017 7waystoreadbook - http://accelazh.github.io/ceph/My-7-Ways-To-Read-A-Book TriMQ ](https://github.com/trimq/Tailieudich/blob/master/7waystoreadbook.md)
 
