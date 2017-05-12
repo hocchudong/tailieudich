@@ -6,13 +6,6 @@ Các bài viết tổng hợp từ các trang tin mà core team Học Chủ Đ�
 - `images` - Chứa ảnh trong các bài viết.
 
 ### Danh mục các bài viết
-Lưu ý: Sử dụng theo cú pháp sau
-```sh
-1. "Ngày_Tháng_Năm" "Tên bài viết - kèm link" "Người dịch" 
-```
-
-
-### Mục lục:
 
 1. [Edward Snowden talks cloud, open source and fear at OpenStack Summit](./docs/1.Edward-snowden-interview-openstack-summit.md) - dịch bởi ThaoNV
 
