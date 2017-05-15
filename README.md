@@ -13,6 +13,8 @@ Các bài viết tổng hợp từ các trang tin mà core team Học Chủ Đ�
 
 3. [My 7 Ways to Read a Book](./docs/My-7-Ways-To-Read-A-Book.md) - dịch bởi TriMQ
 
-4. [Presenting technical topics to technical people](./docs/4.Presenting-technical-topics-to-technical-people.md) dịch bởi TriMQ
+4. [Presenting technical topics to technical people](./docs/4.Presenting-technical-topics-to-technical-people.md) - dịch bởi TriMQ
 
-5. [State of the Cloud 2017 - Part-I](./docs/5.State-cloud-2017-part-i.md) dịch bởi TriMQ
+5. [State of the Cloud 2017 - Part-I](./docs/5.State-cloud-2017-part-i.md) - dịch bởi TriMQ
+
+6. [State of the Cloud 2017 - Part-II](./docs/6.State-cloud-2017-part-ii.md) - dịch bởi TriMQ
