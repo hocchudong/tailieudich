@@ -15,3 +15,4 @@ Các bài viết tổng hợp từ các trang tin mà core team Học Chủ Đ�
 6. [State of the Cloud 2017 - Part-II](./docs/6.State-cloud-2017-part-ii.md) - dịch bởi TriMQ
 7. [State of the Cloud 2017 - Part-III](./docs/7.State-cloud-2017-part-iii.md) - dịch bởi ThaoNV
 8. [OpenStack Boston Summit recap: 50+ things you need to know](./docs/8.OpenStack-Boston-Summit-recap.md) - dịch bởi ThaoNV
+9. [OpenStack Summit Boston](./docs/9.OpenStack-summit-boston.md) - dịch bởi ThaoNV
