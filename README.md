@@ -17,3 +17,4 @@ Các bài viết tổng hợp từ các trang tin mà core team Học Chủ Đ�
 8. [OpenStack Boston Summit recap: 50+ things you need to know](./docs/8.OpenStack-Boston-Summit-recap.md) - dịch bởi ThaoNV
 9. [OpenStack Summit Boston](./docs/9.OpenStack-summit-boston.md) - dịch bởi ThaoNV
 10. [OpenStack: A Look into its Past, Present and Future](./docs/10.OpenStack-past-present-future.md) - dịch bởi ThaoNV
+11. [OpenStack services monitoring: Challenges and solutions](./docs/11.OpenStack-services-monitoring.md) - dịch bởi TriMQ
