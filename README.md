@@ -19,3 +19,4 @@ Các bài viết tổng hợp từ các trang tin mà core team Học Chủ Đ�
 10. [OpenStack: A Look into its Past, Present and Future](./docs/10.OpenStack-past-present-future.md) - dịch bởi ThaoNV
 11. [OpenStack services monitoring: Challenges and solutions](./docs/11.OpenStack-services-monitoring.md) - dịch bởi TriMQ
 12. [What is High Availability?](./docs/12.What-is-High-Availability.md) - dịch bởi ThaoNV
+13. [An Introduction to Load Testing](./docs/13.An-Introduction-to-Load-Testing.md) - dịch bởi ThaoNV
